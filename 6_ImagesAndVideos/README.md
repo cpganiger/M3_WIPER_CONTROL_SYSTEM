@@ -1,5 +1,5 @@
 #  STM Board
-![engine start](/board.png)
+![engine start](6_ImagesAndVideos/board.png)
 
 # WIPER SYSTEM GREEN LED
 ![LOW](/green%20Led%20on.png)
