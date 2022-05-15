@@ -1,7 +1,7 @@
 The folder contains 4 images
 
 #### Block Diagram
-![](/block%20diagram.png)
+![](https://github.com/cpganiger/M3_WIPER_CONTROL_SYSTEM/tree/main/2_Design/block%20diagram.png?raw=true)
 
 #### Flow Chart
 ![](/flowchart.png)
